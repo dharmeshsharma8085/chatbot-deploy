@@ -20,7 +20,7 @@ https://deploy-juhrt5pzgbisw35yuibmth.streamlit.app/
 ## 🖥️ Preview
 
 <p align="center">
-  <img src="asset/screenshot.png" alt="Nova AI Screenshot" width="900">
+  <img src="asset/Screenshot.png" alt="Nova AI Screenshot" width="900">
 </p>
 
 ---
